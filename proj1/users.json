@@ -1,0 +1,9 @@
+{
+    "email": "hancy.pandey@example.com",
+    "name": "seamoon",
+    "permissions": {
+        "accounts": "read",
+        "policies": "write",
+        "users": "write"
+    }
+}
